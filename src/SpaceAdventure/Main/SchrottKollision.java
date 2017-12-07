@@ -1,5 +1,9 @@
 package SpaceAdventure.Main;
 
-public class SchrottKollision {
+import Java.util.Timer
 
+public class SchrottKollision {
+  public SchrottKollision() {
+  
+  }
 }
