@@ -6,41 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1bb953d-d2cb-4ef4-9813-bf57a445a7c3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/flamme1.1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/flamme1.2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/gegner1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/rakete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/schrott1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/schrott2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/schrott3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Space_Adventure_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Erik.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Space Adventure.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/Background.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/FlammeAnimation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/GegnerKollision.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/Gui.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/KeyHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/Label.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/PlayerMovement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottMovement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/Var.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/antiNoMovement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/gegnerMovement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/optionsKeyHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/optionsWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/test.java" />
-    </list>
+    <list default="true" id="c1bb953d-d2cb-4ef4-9813-bf57a445a7c3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -888,7 +854,7 @@
     <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
