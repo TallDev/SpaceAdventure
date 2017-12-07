@@ -7,6 +7,7 @@ public class SchrottKollision {
 
     public SchrottKollision() {
         Timer timer;
+
         timer = new Timer();
         timer.scheduleAtFixedRate(new TimerTask() {
             @Override
