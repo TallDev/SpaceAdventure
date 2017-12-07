@@ -5,9 +5,9 @@ import java.util.Timer;
 public class SchrottKollision {
 
     public SchrottKollision() {
-
+        Timer time;
     }
 
-  Timer time;
+
 
 }
