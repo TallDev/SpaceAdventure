@@ -12,6 +12,8 @@ public class SchrottKollision {
             @Override
             public void run() {
 
+                
+
             }
         }, 0, 10);
     }

@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c1bb953d-d2cb-4ef4-9813-bf57a445a7c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SpaceAdventure/Main/Var.java" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/Var.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="E:\Java\JavaGames\SpaceAdventure\.idea\shelf/" />
@@ -51,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Var.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Var.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/Var.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="523">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,22 +66,26 @@
       <file leaf-file-name="GegnerKollision.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/GegnerKollision.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+            <state relative-caret-position="192">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#268#1473#0" expanded="true" />
+                <element signature="e#1472#1473#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SchrottKollision.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SchrottKollision.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="336">
+              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#232#346#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,10 +94,11 @@
       <file leaf-file-name="SchrottMovement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottMovement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
+            <state relative-caret-position="1176">
               <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#622#1540#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,8 +178,8 @@
         <option value="$PROJECT_DIR$/src/SpaceAdventure/Main/Var.java" />
         <option value="$PROJECT_DIR$/src/SpaceAdventure/Main/KeyHandler.java" />
         <option value="$PROJECT_DIR$/src/SpaceAdventure/Main/GegnerKollision.java" />
-        <option value="$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java" />
         <option value="$PROJECT_DIR$/src/SpaceAdventure/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java" />
       </list>
     </option>
   </component>
@@ -448,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512670485913</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Test Commit">
+      <created>1512670621748</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1512670621748</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -836,16 +848,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottMovement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/PlayerMovement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -885,26 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/GegnerKollision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/optionsWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="801">
@@ -923,12 +905,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/Var.java">
+    <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottMovement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="1176">
+          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#622#1540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/GegnerKollision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#268#1473#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/Var.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#232#346#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
           </folding>
         </state>
       </provider>
