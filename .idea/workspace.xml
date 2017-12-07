@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c1bb953d-d2cb-4ef4-9813-bf57a445a7c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java" afterPath="$PROJECT_DIR$/src/SpaceAdventure/Main/SchrottKollision.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="E:\Java\JavaGames\SpaceAdventure\.idea\shelf/" />
@@ -427,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512669293983</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test Commit">
+      <created>1512669449714</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1512669449714</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
