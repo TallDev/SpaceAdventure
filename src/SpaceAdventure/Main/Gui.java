@@ -33,6 +33,7 @@ public class Gui {
 
         //Var.jf1.add(NameLabel);
 
+
         /*
         Var.jf1.add(MainMenue.MainText);
         MainMenue.MainText.setVisible(true);
