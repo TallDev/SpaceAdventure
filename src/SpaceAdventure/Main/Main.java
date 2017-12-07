@@ -16,6 +16,7 @@ public class Main {
         new gegnerMovement();
         new antiNoMovement();
         new SchrottMovement();
+        new SchrottKollision();
         new GegnerKollision();
         //new test();
     }
