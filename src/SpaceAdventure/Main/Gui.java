@@ -18,6 +18,8 @@ public class Gui {
         Var.jf1.setLocationRelativeTo(null);
         Var.jf1.setLayout(null);
 
+
+
         // Label
         Var.lbl1 = new Label();
         Var.lbl1.setBounds(0, 0, Var.screenWith, Var.screenHeight);
@@ -30,6 +32,11 @@ public class Gui {
         // NameLabel.setVisible(true);
 
         //Var.jf1.add(NameLabel);
+
+        /*
+        Var.jf1.add(MainMenue.MainText);
+        MainMenue.MainText.setVisible(true);
+        */
 
         Var.jf1.setTitle(Var.gameTitle);
 

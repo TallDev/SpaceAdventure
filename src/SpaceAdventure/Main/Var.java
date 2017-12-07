@@ -28,14 +28,18 @@ public class Var {
         life = false;
         gameStarted = false;
     }
-
-
+/*
+    public static void add() {
+        Var.jf1.add(MainMenue.MainText);
+    }*/
 
     public static void openMainMenü() {
-
+        // add();
+        // MainMenue.MainText.setVisible(true);
     }
     public static void closeMainMenü() {
-
+        // Var.jf1.remove(MainMenue.MainText);
+        // MainMenue.MainText.setVisible(false);
     }
 
 
@@ -113,6 +117,8 @@ public class Var {
     // static int schrottSpeed[] = new int[5];
     static int schrottSpeed1[] = new int[5], schrottSpeed2[] = new int[2], schrottSpeed3;
 
+    // Mainmenue
+    static String mainMenueText = "HauptMenü";
 
     // Label
     static Label lbl1;
