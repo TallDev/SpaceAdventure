@@ -21,11 +21,21 @@ public class Var {
     static boolean life = true;
     static int leben = 2;
 
+
     public static void killPlayer(String reason) {
 
         System.out.println("Spieler ist Gestorben: " + reason);
         life = false;
         gameStarted = false;
+    }
+
+
+
+    public static void openMainMenü() {
+
+    }
+    public static void closeMainMenü() {
+
     }
 
 
@@ -106,7 +116,7 @@ public class Var {
 
     // Label
     static Label lbl1;
-
+    public static boolean mainMenüOpen = true;
     public Var() {
 
         try {

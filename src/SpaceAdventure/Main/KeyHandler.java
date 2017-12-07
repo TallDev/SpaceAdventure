@@ -93,6 +93,23 @@ public class KeyHandler implements KeyListener{
                 System.exit(1);
 
         }
+        if(e.getKeyCode() == KeyEvent.VK_ESCAPE) {
+            if(Var.debugMode) {
+                print("Pressed Key ESCAPE");
+            }
+            if(Var.lbl1.isVisible()) {
+                Var.lbl1.setVisible(false);
+                Var.killPlayer("Pause Menü");
+                Var.mainMenüOpen = false;
+                Var.closeMainMenü();
+            } else {
+                Var.lbl1.setVisible(true);
+                Var.mainMenüOpen = true;
+                Var.openMainMenü();
+            }
+
+
+        }
     }
 
     @Override

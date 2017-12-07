@@ -18,6 +18,7 @@ public class Main {
         new SchrottMovement();
         new SchrottKollision();
         new GegnerKollision();
+        new MainMenue();
         //new test();
     }
 
